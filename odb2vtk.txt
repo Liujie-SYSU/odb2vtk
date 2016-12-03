@@ -1,12 +1,12 @@
 ----------input and output path----------
 odb_path = 'C:\Temp'
-odb_name = 'CP10_L40_Zdis'
-vtk_path = 'C:\Temp\CP10_L40_Zdis'
+odb_name = 'CP10_L6_DP1'
+vtk_path = 'C:\Temp\CP10_L6_DP1'
 --------------type of mesh--------------
 mesh_type = '12'
 -------------number of piece-------------
 piecenum = '2'
 ----setting frame, step and instance----
-frame = '1-1'
+frame = '1-20'
 step = '0'
 instance = '0'
